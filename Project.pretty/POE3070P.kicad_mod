@@ -1,0 +1,208 @@
+(footprint "POE3070P"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -9.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "28f8f657-2fd3-4a70-a676-139acce78076")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "POE3070P"
+		(at 0 -8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5c214725-2629-4e41-a0f9-c1710ba4a5bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5309621-68aa-4922-acb1-94642b970736")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8a893c9-453c-477c-9e83-6a508895f772")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.3 -6.35)
+		(end -4.3 6.35)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d707da41-9fac-40cd-b2ac-35481950cdbd")
+	)
+	(fp_line
+		(start -4.3 -6.35)
+		(end 4.3 -6.35)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e51c7163-8a94-419b-8472-61017aeb3102")
+	)
+	(fp_line
+		(start -4.275 4.6)
+		(end -2.525 6.35)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ba8e3d66-e66d-4c42-8259-184760d2b8f9")
+	)
+	(fp_line
+		(start 4.3 -6.35)
+		(end 4.3 6.35)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5d27d8f4-e38e-4d07-b6f6-c027fe18ba61")
+	)
+	(fp_line
+		(start 4.3 6.35)
+		(end -4.3 6.35)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5f45b8bb-1708-4a24-b540-954d8fed1f41")
+	)
+	(fp_poly
+		(pts
+			(xy -8 -4.5) (xy -4.55 -4.5) (xy -4.55 -6.55) (xy 4.55 -6.55) (xy 4.55 -4.5) (xy 8 -4.5) (xy 8 4.5)
+			(xy 4.55 4.5) (xy 4.55 6.55) (xy -4.55 6.55) (xy -4.55 4.5) (xy -8 4.5)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "e0e6eaad-bf1c-4c3a-b86f-a2a4f5f54181")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3dfc1e6b-85e3-4240-806a-fd1b9cb60c42")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -6.285 3.75)
+		(size 3.17 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "e57bc94d-cd0b-4a72-946d-0ca98f4fba46")
+	)
+	(pad "2" smd roundrect
+		(at -6.285 1.25)
+		(size 3.17 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "ed4e1f55-5d6f-4ca6-88e2-8d2f6af17c35")
+	)
+	(pad "3" smd roundrect
+		(at -6.285 -1.25)
+		(size 3.17 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "ef7941b8-bcec-4884-ac5a-0ddd1415dfc3")
+	)
+	(pad "4" smd roundrect
+		(at -6.285 -3.75)
+		(size 3.17 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "4769af0c-d274-41aa-913b-bec326a9e47d")
+	)
+	(pad "5" smd roundrect
+		(at 6.285 3.75)
+		(size 3.17 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "bd5879cb-c8a1-410e-865c-750e1ed3b73d")
+	)
+	(pad "6" smd roundrect
+		(at 6.285 1.25)
+		(size 3.17 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "e2d5d3fc-2e11-4764-be32-3dbdcfe38983")
+	)
+	(pad "7" smd roundrect
+		(at 6.285 -1.25)
+		(size 3.17 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "b9924a5b-a94d-4707-a74e-688de23462d6")
+	)
+	(pad "8" smd roundrect
+		(at 6.285 -3.75)
+		(size 3.17 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "a20317ce-9532-4e28-9ed9-06678f541239")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D/Coilcraft-POE70P-50L.STEP"
+		(offset
+			(xyz 0 0 0.25)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)

@@ -1,0 +1,244 @@
+(footprint "DO1608C"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "<b>DO1608C</b><br>")
+	(property "Reference" "REF**"
+		(at -0.335 -0.087 0)
+		(layer "F.SilkS")
+		(uuid "fa9c1376-925b-4d93-a94b-1d2706bba0cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DO1608C"
+		(at -0.335 -0.087 0)
+		(layer "F.Fab")
+		(uuid "c89e6333-9c8d-4415-b3a4-b640f2deb9ad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f51acfe2-b02f-4dac-bc7c-c2c066f8c28f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3cc8d619-1eb9-4f96-86e2-5843d7abd774")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.8 -1.62463)
+		(end -0.89 -2.225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c65e5abc-0107-4ff0-ab1b-6b76641b9d34")
+	)
+	(fp_line
+		(start -0.89 -2.225)
+		(end 0.89 -2.225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cf70c97b-44e2-46f9-bca3-3e19b64d5b01")
+	)
+	(fp_line
+		(start -0.89 2.225)
+		(end -1.8 1.62463)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "af3bc6ea-311b-48d7-9fc7-fc28303b11fa")
+	)
+	(fp_line
+		(start 0.89 -2.225)
+		(end 1.8 -1.62463)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "868dfb7e-fb7a-4632-bfda-65bea0e1a6fc")
+	)
+	(fp_line
+		(start 0.89 2.225)
+		(end -0.89 2.225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0bd1ad92-62e2-46c8-ba29-1ab2a778af73")
+	)
+	(fp_line
+		(start 1.8 1.62463)
+		(end 0.89 2.225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "52523fc4-1be1-4d1f-9f5d-8f66bc3e62fb")
+	)
+	(fp_circle
+		(center -3.832 0.003)
+		(end -3.784 0.003)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "18cd6acc-67c3-4107-afc3-e75dc9acaeeb")
+	)
+	(fp_poly
+		(pts
+			(xy -3.5 -1.85) (xy -1.725 -1.85) (xy -0.975 -2.35) (xy 0.975 -2.35) (xy 1.724999 -1.85) (xy 3.5 -1.85)
+			(xy 3.5 1.85) (xy 1.699999 1.85) (xy 0.95 2.35) (xy -0.974999 2.35) (xy -1.724999 1.85) (xy -3.5 1.85)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "62336fb1-b4a3-4454-8298-7fd9826d636d")
+	)
+	(fp_line
+		(start -3.3 -0.635)
+		(end -3.3 0.635)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "997d4bc6-0ba6-4716-ac06-61d81924d89a")
+	)
+	(fp_line
+		(start -3.3 -0.635)
+		(end -0.89 -2.225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7408e080-d78e-4e75-91cf-e16b68d60743")
+	)
+	(fp_line
+		(start -0.89 -2.225)
+		(end 0.89 -2.225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a42de545-116d-458f-8bfc-a3159e3ad4f6")
+	)
+	(fp_line
+		(start -0.89 2.225)
+		(end -3.3 0.635)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bc8777ec-9547-4d98-be66-330d3b2cb198")
+	)
+	(fp_line
+		(start -0.89 2.225)
+		(end 0.89 2.225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "78af4da0-6d2c-4fdd-ab7f-ed74ff292556")
+	)
+	(fp_line
+		(start 0.89 -2.225)
+		(end 3.3 -0.635)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e2a4bc34-443f-4d72-84fd-f0a5f328c7b1")
+	)
+	(fp_line
+		(start 3.3 -0.635)
+		(end 3.3 0.635)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "307eccab-f131-485b-8c7a-905e92168356")
+	)
+	(fp_line
+		(start 3.3 0.635)
+		(end 0.89 2.225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b553c37c-389d-4a47-a502-6db9dc8641f7")
+	)
+	(pad "1" smd rect
+		(at -2.73 0)
+		(size 1.4 3.56)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "4ae7de9a-c904-41b0-b514-c0140cc0ddbe")
+	)
+	(pad "2" smd rect
+		(at 2.73 0)
+		(size 1.4 3.56)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "89dce701-7121-4e95-9420-120fc68b1bbb")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_USER_TEMPLATE_DIR}/ESP32PoE/3D/Coilcraft-DO1608C.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,90 @@
+(footprint "mPCIe-Hold"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "29de6398-08b7-4d91-afaa-d141eea97bad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "mPCIe-Hold"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7b44c0d8-83be-4bef-813e-f4e9ca21d174")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "06f1c92f-e101-4688-b5a5-8f148d979bf9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "28aeec4c-24c1-4c22-af55-7ddcd0727d66")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d777acb1-af19-4991-953b-4e52e4e4300c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -12.1 0)
+		(size 5.8 5.8)
+		(drill 2.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(thermal_bridge_angle 45)
+		(uuid "72eb7d41-667b-4053-8305-6bb0111fa9ee")
+	)
+	(pad "2" thru_hole rect
+		(at 12.1 0)
+		(size 5.8 5.8)
+		(drill 2.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(thermal_bridge_angle 45)
+		(uuid "7c52123e-6a65-4aaf-8b36-c017de80fad6")
+	)
+	(embedded_fonts no)
+)
