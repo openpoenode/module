@@ -49661,8 +49661,8 @@
 		(uuid "725d95a3-8019-4ad7-9e83-936883529a4a")
 	)
 	(gr_rect
-		(start -12.4 -5.7)
-		(end -7.4 -0.7)
+		(start -12 -5.7)
+		(end -7 -0.7)
 		(stroke
 			(width 0.1)
 			(type solid)
