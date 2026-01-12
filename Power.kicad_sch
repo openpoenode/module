@@ -13996,7 +13996,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "603-RC0402FR-0713K3L"
+		(property "MOUSER#" "603-RC0402FR-0713K3P"
 			(at 254 143.51 0)
 			(effects
 				(font
@@ -14023,7 +14023,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#.Var" "3.3V(652-CR0402FX-2432GLF) 5V(603-RC0402FR-0713K3L)"
+		(property "MOUSER#.Var" "3.3V(652-CR0402FX-2432GLF) 5V(603-RC0402FR-0713K3P)"
 			(at 254 143.51 0)
 			(effects
 				(font
