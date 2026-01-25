@@ -29642,7 +29642,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/1127/APM_PSRAM_QSPI_APS6404L_3SQR_v2_3_PKG-1954826.pdf"
+		(property "Datasheet" "Data Sheets\\APM_PSRAM_E3_QSPI__APS6404L_3SQR_KGD_PKG__v2.7.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -29668,7 +29668,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MOUSER#" "878-APS6404L-3SQR-ZR"
+		(property "MOUSER#" "878-APS6404L-3SQR-SN"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41767,7 +41767,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Data Sheets\\abm8-1384678.pdf"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")

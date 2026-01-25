@@ -5545,7 +5545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Data Sheets\\abm8-1384678.pdf"
 			(at 128.27 163.83 0)
 			(effects
 				(font
@@ -7804,7 +7804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/1127/APM_PSRAM_QSPI_APS6404L_3SQR_v2_3_PKG-1954826.pdf"
+		(property "Datasheet" "Data Sheets\\APM_PSRAM_E3_QSPI__APS6404L_3SQR_KGD_PKG__v2.7.pdf"
 			(at 50.8 129.54 0)
 			(effects
 				(font
@@ -7822,7 +7822,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "878-APS6404L-3SQR-ZR"
+		(property "MOUSER#" "878-APS6404L-3SQR-SN"
 			(at 50.8 111.76 0)
 			(effects
 				(font
