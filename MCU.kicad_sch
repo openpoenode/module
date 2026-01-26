@@ -7786,7 +7786,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "APS6404L-3SQR-ZR"
+		(property "Value" "APS6404L-3SQR-SN"
 			(at 59.69 113.0299 0)
 			(effects
 				(font
