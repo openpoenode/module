@@ -665,6 +665,69 @@
       "GNDPWR": [
         "HV"
       ],
+      "Net-(1L1-Pad2)": [
+        "HV"
+      ],
+      "Net-(1T1-Pad1)": [
+        "HV"
+      ],
+      "Net-(2C19-Pad2)": [
+        "HV"
+      ],
+      "Net-(2C20-Pad2)": [
+        "HV"
+      ],
+      "Net-(2C21-Pad2)": [
+        "HV"
+      ],
+      "Net-(2C22-Pad2)": [
+        "HV"
+      ],
+      "Net-(2C8-Pad1)": [
+        "HV"
+      ],
+      "Net-(2D2-A)": [
+        "HV"
+      ],
+      "Net-(2D2-K)": [
+        "HV"
+      ],
+      "Net-(2D4-A)": [
+        "HV"
+      ],
+      "Net-(2D4-K)": [
+        "HV"
+      ],
+      "Net-(2Q2-G)": [
+        "HV"
+      ],
+      "Net-(2Q2-S)": [
+        "HV"
+      ],
+      "Net-(2U2-APD)": [
+        "HV"
+      ],
+      "Net-(2U2-BLNK)": [
+        "HV"
+      ],
+      "Net-(2U2-CLS)": [
+        "HV"
+      ],
+      "Net-(2U2-CTL)": [
+        "HV"
+      ],
+      "Net-(2U2-DEN)": [
+        "HV"
+      ],
+      "Net-(2U2-FRS)": [
+        "HV"
+      ],
+      "Net-(2U2-GATE)": [
+        "HV"
+      ],
+      "Net-(2U2-VB)": [
+        "HV"
+      ],
       "Net-(C12-Pad1)": [
         "HV"
       ],
@@ -830,7 +893,7 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -1047,8 +1110,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "${QUANTITY}"
+      "sort_asc": true,
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {

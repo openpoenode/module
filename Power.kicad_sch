@@ -6048,7 +6048,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00b3101a-7685-4cce-8ab2-244d2fd28436")
-		(property "Reference" "R2"
+		(property "Reference" "2R25"
 			(at 58.42 97.79 90)
 			(effects
 				(font
@@ -6190,7 +6190,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R2")
+					(reference "2R25")
 					(unit 1)
 				)
 			)
@@ -6273,7 +6273,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0be2951c-ee62-4e57-97e5-b6dc83d5dfb5")
-		(property "Reference" "C5"
+		(property "Reference" "1C4"
 			(at 246.38 47.3709 0)
 			(effects
 				(font
@@ -6417,7 +6417,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C5")
+					(reference "1C4")
 					(unit 1)
 				)
 			)
@@ -6433,7 +6433,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c730e5d-9911-420c-a61a-d062946a1003")
-		(property "Reference" "C18"
+		(property "Reference" "1C1"
 			(at 269.24 48.2599 0)
 			(effects
 				(font
@@ -6577,7 +6577,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C18")
+					(reference "1C1")
 					(unit 1)
 				)
 			)
@@ -6592,7 +6592,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10bee12e-f17b-4b10-b025-bc69b3bc0d9f")
-		(property "Reference" "C4"
+		(property "Reference" "2C3"
 			(at 196.85 41.9099 0)
 			(effects
 				(font
@@ -6736,7 +6736,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C4")
+					(reference "2C3")
 					(unit 1)
 				)
 			)
@@ -6751,7 +6751,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "183d1ede-01a4-4b2f-930c-0caca8b614bb")
-		(property "Reference" "R10"
+		(property "Reference" "2R6"
 			(at 203.708 88.9 0)
 			(effects
 				(font
@@ -6895,7 +6895,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R10")
+					(reference "2R6")
 					(unit 1)
 				)
 			)
@@ -6911,7 +6911,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19a32d81-469e-4764-8b13-e47766068c32")
-		(property "Reference" "C7"
+		(property "Reference" "2C7"
 			(at 173.99 93.9799 0)
 			(effects
 				(font
@@ -7055,7 +7055,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C7")
+					(reference "2C7")
 					(unit 1)
 				)
 			)
@@ -7070,7 +7070,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1e55c454-5a71-4fa9-a89d-59efa4ffd305")
-		(property "Reference" "R5"
+		(property "Reference" "2R22"
 			(at 100.33 43.942 90)
 			(effects
 				(font
@@ -7212,7 +7212,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R5")
+					(reference "2R22")
 					(unit 1)
 				)
 			)
@@ -7228,7 +7228,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21ee0cf8-6a0f-42cd-8b2a-6890963148d1")
-		(property "Reference" "R12"
+		(property "Reference" "2R2"
 			(at 186.69 107.9499 0)
 			(effects
 				(font
@@ -7399,7 +7399,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R12")
+					(reference "2R2")
 					(unit 1)
 				)
 			)
@@ -7414,7 +7414,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "237fdc53-e76a-438f-bd90-6e39c2c024ff")
-		(property "Reference" "C17"
+		(property "Reference" "2C11"
 			(at 137.922 38.608 0)
 			(effects
 				(font
@@ -7558,7 +7558,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C17")
+					(reference "2C11")
 					(unit 1)
 				)
 			)
@@ -7574,7 +7574,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2f82ddc3-83fc-446d-884b-f20466c256f7")
-		(property "Reference" "U3"
+		(property "Reference" "2U1"
 			(at 222.25 135.8899 90)
 			(effects
 				(font
@@ -7723,7 +7723,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "U3")
+					(reference "2U1")
 					(unit 1)
 				)
 			)
@@ -7805,7 +7805,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "43be9a40-0792-4ee1-a81a-c147473553df")
-		(property "Reference" "C2"
+		(property "Reference" "1C6"
 			(at 151.13 46.228 0)
 			(effects
 				(font
@@ -7949,7 +7949,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C2")
+					(reference "1C6")
 					(unit 1)
 				)
 			)
@@ -7965,7 +7965,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47c49a2a-d127-45b4-99bc-d40a6cbbc381")
-		(property "Reference" "C11"
+		(property "Reference" "2C5"
 			(at 236.22 110.49 90)
 			(effects
 				(font
@@ -8107,7 +8107,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C11")
+					(reference "2C5")
 					(unit 1)
 				)
 			)
@@ -8123,7 +8123,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f009d35-e28f-44b0-8016-c93fdee05434")
-		(property "Reference" "R1"
+		(property "Reference" "2R23"
 			(at 68.58 96.5199 0)
 			(effects
 				(font
@@ -8267,7 +8267,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R1")
+					(reference "2R23")
 					(unit 1)
 				)
 			)
@@ -8282,7 +8282,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5406c3c7-737e-4a95-a12f-2bb84ebf4558")
-		(property "Reference" "C10"
+		(property "Reference" "1C7"
 			(at 181.864 68.326 0)
 			(effects
 				(font
@@ -8426,7 +8426,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C10")
+					(reference "1C7")
 					(unit 1)
 				)
 			)
@@ -8509,7 +8509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ae1b267-10e7-446b-9d94-0d3181a94d62")
-		(property "Reference" "R9"
+		(property "Reference" "2R4"
 			(at 195.58 72.39 90)
 			(effects
 				(font
@@ -8651,7 +8651,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R9")
+					(reference "2R4")
 					(unit 1)
 				)
 			)
@@ -8667,7 +8667,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5af450fb-a9a7-4d71-b30a-7d0ca7b31cc1")
-		(property "Reference" "D5"
+		(property "Reference" "2D2"
 			(at 201.93 45.72 0)
 			(effects
 				(font
@@ -8809,7 +8809,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "D5")
+					(reference "2D2")
 					(unit 1)
 				)
 			)
@@ -8825,7 +8825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c255342-d797-4258-bb9b-334533e14455")
-		(property "Reference" "U1"
+		(property "Reference" "2U2"
 			(at 124.46 40.64 0)
 			(effects
 				(font
@@ -9084,7 +9084,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "U1")
+					(reference "2U2")
 					(unit 1)
 				)
 			)
@@ -9167,7 +9167,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d1d8bee-f3b1-407c-8360-dd12633bb331")
-		(property "Reference" "R18"
+		(property "Reference" "2R1"
 			(at 236.22 25.4 90)
 			(effects
 				(font
@@ -9309,7 +9309,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R18")
+					(reference "2R1")
 					(unit 1)
 				)
 			)
@@ -9324,7 +9324,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e7e3a05-1b59-413a-8cd9-69ebe33caaf6")
-		(property "Reference" "R6"
+		(property "Reference" "2R24"
 			(at 100.076 54.61 90)
 			(effects
 				(font
@@ -9466,7 +9466,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R6")
+					(reference "2R24")
 					(unit 1)
 				)
 			)
@@ -9482,7 +9482,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5edb5de1-03b0-48a1-bb7e-8486a0319a49")
-		(property "Reference" "R13"
+		(property "Reference" "2R5"
 			(at 201.93 107.9499 0)
 			(effects
 				(font
@@ -9626,7 +9626,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R13")
+					(reference "2R5")
 					(unit 1)
 				)
 			)
@@ -9776,7 +9776,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70d5c35b-e960-4895-a470-7f838bf88fec")
-		(property "Reference" "R7"
+		(property "Reference" "1R1"
 			(at 91.44 72.3899 0)
 			(effects
 				(font
@@ -9920,7 +9920,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R7")
+					(reference "1R1")
 					(unit 1)
 				)
 			)
@@ -9935,7 +9935,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b06cd94-e86c-404c-a2d4-d8206c42f4c5")
-		(property "Reference" "R8"
+		(property "Reference" "2R14"
 			(at 196.85 60.198 90)
 			(effects
 				(font
@@ -10077,7 +10077,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R8")
+					(reference "2R14")
 					(unit 1)
 				)
 			)
@@ -10160,7 +10160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7fc0b89c-102c-4aa6-b095-a2f6dc638f88")
-		(property "Reference" "R11"
+		(property "Reference" "2R12"
 			(at 162.56 104.1399 0)
 			(effects
 				(font
@@ -10304,7 +10304,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R11")
+					(reference "2R12")
 					(unit 1)
 				)
 			)
@@ -10387,7 +10387,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83b07870-5f77-4391-b085-b4999c6acd4f")
-		(property "Reference" "D3"
+		(property "Reference" "2D1"
 			(at 237.8075 35.56 0)
 			(effects
 				(font
@@ -10529,7 +10529,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "D3")
+					(reference "2D1")
 					(unit 1)
 				)
 			)
@@ -10611,7 +10611,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "89a5a36b-62ec-4ebd-b6b4-578adbba8ee3")
-		(property "Reference" "R4"
+		(property "Reference" "2R7"
 			(at 185.42 45.212 90)
 			(effects
 				(font
@@ -10755,7 +10755,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R4")
+					(reference "2R7")
 					(unit 1)
 				)
 			)
@@ -10771,7 +10771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89c2e775-3cda-4c12-8cb5-e9ce1d2503a9")
-		(property "Reference" "C15"
+		(property "Reference" "2C1"
 			(at 246.38 24.13 90)
 			(effects
 				(font
@@ -10913,7 +10913,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C15")
+					(reference "2C1")
 					(unit 1)
 				)
 			)
@@ -10996,7 +10996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8af70b3b-c2a0-4a86-b329-7cb098e6acc4")
-		(property "Reference" "R21"
+		(property "Reference" "2R9"
 			(at 152.4 99.0599 0)
 			(effects
 				(font
@@ -11167,7 +11167,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R21")
+					(reference "2R9")
 					(unit 1)
 				)
 			)
@@ -11183,7 +11183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8efb5677-3706-4a33-b717-aa4a9198634c")
-		(property "Reference" "C6"
+		(property "Reference" "1C2"
 			(at 257.81 48.2599 0)
 			(effects
 				(font
@@ -11327,7 +11327,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C6")
+					(reference "1C2")
 					(unit 1)
 				)
 			)
@@ -11343,7 +11343,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9047ec9b-5458-4c17-9b6a-f80a7e7664c7")
-		(property "Reference" "D2"
+		(property "Reference" "2D6"
 			(at 73.66 85.09 0)
 			(effects
 				(font
@@ -11485,7 +11485,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "D2")
+					(reference "2D6")
 					(unit 1)
 				)
 			)
@@ -11500,7 +11500,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "90e13c40-88d2-44cf-a03f-a5d7d922c24b")
-		(property "Reference" "C13"
+		(property "Reference" "2C6"
 			(at 241.3 120.396 90)
 			(effects
 				(font
@@ -11669,7 +11669,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C13")
+					(reference "2C6")
 					(unit 1)
 				)
 			)
@@ -11685,7 +11685,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a522bb86-71c2-473a-8165-fb65d3e83f15")
-		(property "Reference" "C3"
+		(property "Reference" "2C4"
 			(at 168.91 41.9099 0)
 			(effects
 				(font
@@ -11829,7 +11829,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C3")
+					(reference "2C4")
 					(unit 1)
 				)
 			)
@@ -11845,7 +11845,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a622c438-df34-4c6a-bcbe-7b97240b3ede")
-		(property "Reference" "Q1"
+		(property "Reference" "2Q2"
 			(at 213.36 77.4699 0)
 			(effects
 				(font
@@ -11992,7 +11992,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "Q1")
+					(reference "2Q2")
 					(unit 1)
 				)
 			)
@@ -12008,7 +12008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac354190-54e7-424a-9aca-5434a052b7a0")
-		(property "Reference" "R44"
+		(property "Reference" "2R3"
 			(at 215.9 104.1399 0)
 			(effects
 				(font
@@ -12179,7 +12179,7 @@
 		(instances
 			(project ""
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R44")
+					(reference "2R3")
 					(unit 1)
 				)
 			)
@@ -12195,7 +12195,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae04b91d-6954-439f-9eb1-b9090f4e86f6")
-		(property "Reference" "D6"
+		(property "Reference" "2D5"
 			(at 63.5 46.9899 90)
 			(effects
 				(font
@@ -12339,7 +12339,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "D6")
+					(reference "2D5")
 					(unit 1)
 				)
 			)
@@ -12354,7 +12354,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b4d5b871-931d-4f74-9cf4-7ccdf1ac4ede")
-		(property "Reference" "C14"
+		(property "Reference" "2C2"
 			(at 203.2 142.2399 0)
 			(effects
 				(font
@@ -12498,7 +12498,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C14")
+					(reference "2C2")
 					(unit 1)
 				)
 			)
@@ -12514,7 +12514,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bf22d327-ad93-4f82-a9fe-fd100146d170")
-		(property "Reference" "D9"
+		(property "Reference" "2D3"
 			(at 215.9 116.8399 90)
 			(effects
 				(font
@@ -12661,7 +12661,7 @@
 		(instances
 			(project ""
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "D9")
+					(reference "2D3")
 					(unit 1)
 				)
 			)
@@ -12677,7 +12677,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c402223d-90f2-48c5-bfdf-71389de04998")
-		(property "Reference" "C12"
+		(property "Reference" "2C8"
 			(at 153.67 109.2199 0)
 			(effects
 				(font
@@ -12848,7 +12848,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C12")
+					(reference "2C8")
 					(unit 1)
 				)
 			)
@@ -12864,7 +12864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c556ec85-7bcb-41f0-8494-08c900adbd9a")
-		(property "Reference" "D8"
+		(property "Reference" "1D2"
 			(at 49.53 54.5398 0)
 			(effects
 				(font
@@ -13012,7 +13012,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "D8")
+					(reference "1D2")
 					(unit 1)
 				)
 			)
@@ -13028,7 +13028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7221c43-645f-4403-9f8b-1c9e93bf3d1d")
-		(property "Reference" "D4"
+		(property "Reference" "1D1"
 			(at 49.53 30.4098 0)
 			(effects
 				(font
@@ -13176,7 +13176,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "D4")
+					(reference "1D1")
 					(unit 1)
 				)
 			)
@@ -13192,7 +13192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb123b24-e141-4215-a939-f4a7141866b4")
-		(property "Reference" "R16"
+		(property "Reference" "2R8"
 			(at 231.14 120.65 90)
 			(effects
 				(font
@@ -13361,7 +13361,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R16")
+					(reference "2R8")
 					(unit 1)
 				)
 			)
@@ -13376,7 +13376,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cea3cc77-890e-422c-b88d-859ee9bb29c9")
-		(property "Reference" "D10"
+		(property "Reference" "2D4"
 			(at 186.69 60.198 0)
 			(effects
 				(font
@@ -13536,7 +13536,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "D10")
+					(reference "2D4")
 					(unit 1)
 				)
 			)
@@ -13551,7 +13551,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d1e544b5-c030-4490-b5be-d693908662a6")
-		(property "Reference" "T1"
+		(property "Reference" "1T1"
 			(at 215.9 31.242 0)
 			(effects
 				(font
@@ -13774,7 +13774,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "T1")
+					(reference "1T1")
 					(unit 1)
 				)
 			)
@@ -13790,7 +13790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d86c84e3-d999-488e-b296-50f1a6fb1e3b")
-		(property "Reference" "R15"
+		(property "Reference" "2R10"
 			(at 256.54 114.2999 0)
 			(effects
 				(font
@@ -13934,7 +13934,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R15")
+					(reference "2R10")
 					(unit 1)
 				)
 			)
@@ -13950,7 +13950,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da9bae99-4992-4658-8623-4b40613e78e3")
-		(property "Reference" "R17"
+		(property "Reference" "2R11"
 			(at 256.54 142.2399 0)
 			(effects
 				(font
@@ -14121,7 +14121,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R17")
+					(reference "2R11")
 					(unit 1)
 				)
 			)
@@ -14203,7 +14203,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e23c21a6-473f-4d71-96fd-82c8a074c1e8")
-		(property "Reference" "C1"
+		(property "Reference" "1C8"
 			(at 221.996 18.796 90)
 			(effects
 				(font
@@ -14345,7 +14345,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C1")
+					(reference "1C8")
 					(unit 1)
 				)
 			)
@@ -14428,7 +14428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e740b83f-7626-4abb-97b2-1a44767652eb")
-		(property "Reference" "C9"
+		(property "Reference" "2C9"
 			(at 171.45 63.4999 0)
 			(effects
 				(font
@@ -14572,7 +14572,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C9")
+					(reference "2C9")
 					(unit 1)
 				)
 			)
@@ -14587,7 +14587,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ebc161a0-4396-4a90-8b8c-73034ba14e23")
-		(property "Reference" "C8"
+		(property "Reference" "2C17"
 			(at 71.882 54.102 0)
 			(effects
 				(font
@@ -14731,7 +14731,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "C8")
+					(reference "2C17")
 					(unit 1)
 				)
 			)
@@ -14814,7 +14814,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eed30dda-44f5-4e9e-9b41-0abfb7b66c90")
-		(property "Reference" "Q2"
+		(property "Reference" "2Q1"
 			(at 173.99 114.3 0)
 			(effects
 				(font
@@ -14963,7 +14963,7 @@
 		(instances
 			(project ""
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "Q2")
+					(reference "2Q1")
 					(unit 1)
 				)
 			)
@@ -15047,7 +15047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f79fa34a-87a0-47ae-945e-29c22df11fd7")
-		(property "Reference" "L1"
+		(property "Reference" "1L1"
 			(at 160.02 31.75 90)
 			(effects
 				(font
@@ -15189,7 +15189,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "L1")
+					(reference "1L1")
 					(unit 1)
 				)
 			)
@@ -15205,7 +15205,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f95ccaec-94ad-4994-a340-2a2f5ea55b31")
-		(property "Reference" "R3"
+		(property "Reference" "2R21"
 			(at 87.63 48.2599 0)
 			(effects
 				(font
@@ -15349,7 +15349,7 @@
 		(instances
 			(project "ESP32PoE"
 				(path "/4c939de5-59ef-438d-9f29-5de1016e5f2f/f9d12477-ea4d-43a2-879f-ca1c6bdc4510"
-					(reference "R3")
+					(reference "2R21")
 					(unit 1)
 				)
 			)
