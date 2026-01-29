@@ -141,30 +141,6 @@
           ""
         ],
         [
-          "missing_courtyard|-2500000|-15500000|6bb0afbc-ae4f-489b-ba9c-d8d03ceaf2e2|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "missing_courtyard|0|-38900000|3afb6132-d738-4c9f-87c7-ee2d306cefae|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "missing_courtyard|0|0|e60969d0-f521-4207-804f-8aa717918fa9|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "missing_courtyard|11887200|-14401800|c0a98ec7-1b29-4aaf-a300-2ab06eb53b9d|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "missing_courtyard|9575800|-14376400|47460ac5-1107-4154-b3bc-170362bae45c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "missing_courtyard|9664700|-12192000|3e2db09f-1108-4e93-a48e-065bb84ce7ab|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "text_thickness|10490200|-10947400|5c71ce9d-2188-4042-8a61-c7c641e252c4|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -234,7 +210,7 @@
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
-        "missing_courtyard": "warning",
+        "missing_courtyard": "ignore",
         "missing_footprint": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
