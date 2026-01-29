@@ -845,7 +845,7 @@
       "keep_line_breaks": false,
       "keep_tabs": false,
       "name": "---",
-      "ref_delimiter": " ",
+      "ref_delimiter": " ,",
       "ref_range_delimiter": "",
       "string_delimiter": "\""
     },
@@ -863,7 +863,7 @@
           "group_by": false,
           "label": "Value",
           "name": "Value",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -884,16 +884,16 @@
           "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "MOUSER#",
           "name": "MOUSER#",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -985,7 +985,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "MOUSER#"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -1046,6 +1046,6 @@
     ]
   ],
   "text_variables": {
-    "REVISION": "0.1"
+    "REVISION": "0.2"
   }
 }
