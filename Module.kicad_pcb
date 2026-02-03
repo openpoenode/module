@@ -11605,8 +11605,8 @@
 			(uuid "6e518b81-9a94-4764-87ad-19fb7f301dcf")
 		)
 		(fp_circle
-			(center -3.556 -2.54)
-			(end -3.456 -2.54)
+			(center -2.8 -3)
+			(end -2.7 -3)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -13060,7 +13060,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "2C10"
-			(at 2.312 0.003 0)
+			(at 0.012 -0.997 0)
 			(layer "User.6")
 			(uuid "00b8338e-7546-4124-bcac-997068bdf660")
 			(effects
@@ -13292,7 +13292,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "2R19"
-			(at 2.312 -0.029 0)
+			(at 0.012 -1.029 0)
 			(layer "User.6")
 			(uuid "925f4d48-0289-444d-a75d-4fae9e345a43")
 			(effects
@@ -19498,7 +19498,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "2R20"
-			(at -2.322 0.009 0)
+			(at -0.137 1.007 0)
 			(layer "User.6")
 			(uuid "0bb7e253-8472-4f0e-b236-19f26ba7c4d9")
 			(effects
@@ -19962,7 +19962,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "2R14"
-			(at 0.017 -1.199 90)
+			(at -0.357 -0.045 90)
 			(layer "User.6")
 			(uuid "45d44ae6-69da-4fea-8100-c8eb1124d071")
 			(effects
@@ -22292,7 +22292,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "2C14"
-			(at -0.004 1.728 0)
+			(at -0.504 1.428 0)
 			(layer "User.6")
 			(uuid "b7c1c1b6-6b7c-40bc-a005-6638609b8a3c")
 			(effects
@@ -22984,7 +22984,7 @@
 	(footprint "LOGO"
 		(layer "B.Cu")
 		(uuid "6bb0afbc-ae4f-489b-ba9c-d8d03ceaf2e2")
-		(at -2.5 -15.5 90)
+		(at -2.8 -15.5 90)
 		(property "Reference" "G***"
 			(at 0 0 90)
 			(layer "B.SilkS")
@@ -27336,7 +27336,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "2C9"
-			(at -2.303 -0.045 270)
+			(at -0.057 -1.029 270)
 			(layer "User.6")
 			(uuid "df07cfc9-749a-4f06-93b3-70c811fc0b8c")
 			(effects
@@ -32264,12 +32264,12 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "2D4"
-			(at 0 2.4 90)
-			(layer "B.SilkS")
+			(at -0.255 -0.029 90)
+			(layer "User.6")
 			(uuid "a40e4507-a5a8-45ff-84a2-9cf18f554c55")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.6 0.6)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36806,6 +36806,18 @@
 			(justify right)
 		)
 	)
+	(gr_text "https://"
+		(at -3 -7.6 90)
+		(layer "F.SilkS")
+		(uuid "2269b149-aaa5-41fd-b482-a36c2dd2cca0")
+		(effects
+			(font
+				(size 0.7 0.5)
+				(thickness 0.1)
+			)
+			(justify right)
+		)
+	)
 	(gr_text "CLK_{fl}"
 		(at 9.144 -13.8684 0)
 		(layer "F.SilkS")
@@ -36852,6 +36864,19 @@
 				(thickness 0.07112)
 				(bold yes)
 			)
+		)
+	)
+	(gr_text "openpoenode.dev"
+		(at -3 -7.6 90)
+		(layer "F.SilkS")
+		(uuid "7374ff7c-8bc1-4dde-8829-368fa0c3d266")
+		(effects
+			(font
+				(size 1.2 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left)
 		)
 	)
 	(gr_text "~{CS}"
@@ -37439,15 +37464,6 @@
 		(layer "B.Cu")
 		(net 1)
 		(uuid "96016499-ceea-420a-956e-07a11d8fb214")
-	)
-	(via
-		(at -3.556 -32.7914)
-		(size 0.45)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(free yes)
-		(net 2)
-		(uuid "0e328802-0a2f-4891-9634-7459308e31c4")
 	)
 	(via
 		(at -13.21 -16.891)
@@ -51690,7 +51706,7 @@
 				(xy 4.061212 -30.740614) (xy 4.061209 -30.740612) (xy 4.061206 -30.740611) (xy 4.044806 -30.731142)
 				(xy 3.981288 -30.694469) (xy 3.981285 -30.694466) (xy 3.980844 -30.694128) (xy 3.980397 -30.693955)
 				(xy 3.97425 -30.690406) (xy 3.973696 -30.691364) (xy 3.915676 -30.66893) (xy 3.905353 -30.6685)
-				(xy 3.171779 -30.6685) (xy 3.10474 -30.688185) (xy 3.084098 -30.704819) (xy 2.576955 -31.211962)
+				(xy 3.171779 -30.6685) (xy 3.10474 -30.688185) (xy 3.084098 -30.704819) (xy 2.761766 -31.027151)
 				(xy 2.06483 -31.724086) (xy 2.031347 -31.785407) (xy 2.029574 -31.795581) (xy 2.0295 -31.796141)
 				(xy 2.0295 -31.796144) (xy 2.005614 -31.885288) (xy 1.959469 -31.965212) (xy 1.894212 -32.030469)
 				(xy 1.814288 -32.076614) (xy 1.725144 -32.1005) (xy 1.632856 -32.1005) (xy 1.543712 -32.076614)
@@ -51704,7 +51720,7 @@
 				(xy 7.42679 -32.554003) (xy 7.499475 -32.679897) (xy 7.5371 -32.820315) (xy 7.5371 -32.965685) (xy 7.499475 -33.106103)
 				(xy 7.42679 -33.231997) (xy 7.323997 -33.33479) (xy 7.198106 -33.407473) (xy 7.198105 -33.407473)
 				(xy 7.198103 -33.407475) (xy 7.057685 -33.4451) (xy 6.912315 -33.4451) (xy 6.771897 -33.407475)
-				(xy 6.771894 -33.407473) (xy 6.771893 -33.407473) (xy 6.734493 -33.38588) (xy 6.646003 -33.33479)
+				(xy 6.771894 -33.407473) (xy 6.771893 -33.407473) (xy 6.737107 -33.387389) (xy 6.646003 -33.33479)
 				(xy 6.54321 -33.231997) (xy 6.543208 -33.231993) (xy 6.470526 -33.106106) (xy 6.470525 -33.106103)
 				(xy 6.4329 -32.965685) (xy 6.4329 -32.965682) (xy 6.4329 -32.820317) (xy 6.432899 -32.820317) (xy -1 -32.820317)
 				(xy -1 -35.360317) (xy 3.638899 -35.360317) (xy 3.676526 -35.219893) (xy 3.749208 -35.094006) (xy 3.749212 -35.094)
@@ -55423,27 +55439,16 @@
 				(xy -9.732856 -31.3639) (xy -9.825144 -31.3639) (xy -9.825147 -31.3639) (xy -9.87863 -31.349568)
 				(xy -9.914288 -31.340014) (xy -9.994212 -31.293869) (xy -10.059469 -31.228612) (xy -10.105614 -31.148688)
 				(xy -10.117557 -31.104116) (xy -10.1295 -31.059546) (xy -14.6 -31.059546) (xy -14.6 -32.685146)
-				(xy -8.6461 -32.685146) (xy -8.6461 -32.592853) (xy -8.641634 -32.576188) (xy -8.622214 -32.503712)
+				(xy -8.6461 -32.685146) (xy -8.6461 -32.592853) (xy -8.628185 -32.525998) (xy -8.622214 -32.503712)
 				(xy -8.576069 -32.423788) (xy -8.510812 -32.358531) (xy -8.510805 -32.358527) (xy -8.430889 -32.312386)
 				(xy -8.430886 -32.312385) (xy -8.341747 -32.2885) (xy -8.341744 -32.2885) (xy -8.249453 -32.2885)
 				(xy -8.160313 -32.312385) (xy -8.16031 -32.312386) (xy -8.080394 -32.358527) (xy -8.080384 -32.358534)
 				(xy -8.015134 -32.423784) (xy -8.015127 -32.423794) (xy -7.968986 -32.50371) (xy -7.968985 -32.503713)
-				(xy -7.9451 -32.592853) (xy -7.9451 -32.685146) (xy -7.968985 -32.774286) (xy -7.968986 -32.77429)
-				(xy -7.993213 -32.816251) (xy -7.993216 -32.816255) (xy -8.005509 -32.837546) (xy -3.9065 -32.837546)
-				(xy -3.9065 -32.745253) (xy -3.890394 -32.685146) (xy -3.882614 -32.656112) (xy -3.836469 -32.576188)
-				(xy -3.771212 -32.510931) (xy -3.771205 -32.510927) (xy -3.691289 -32.464786) (xy -3.691286 -32.464785)
-				(xy -3.602147 -32.4409) (xy -3.602144 -32.4409) (xy -3.509853 -32.4409) (xy -3.420713 -32.464785)
-				(xy -3.42071 -32.464786) (xy -3.340794 -32.510927) (xy -3.340784 -32.510934) (xy -3.275534 -32.576184)
-				(xy -3.275527 -32.576194) (xy -3.229386 -32.65611) (xy -3.229385 -32.656113) (xy -3.2055 -32.745253)
-				(xy -3.2055 -32.837546) (xy -3.229385 -32.926686) (xy -3.229386 -32.926689) (xy -3.275527 -33.006605)
-				(xy -3.275531 -33.006612) (xy -3.340788 -33.071869) (xy -3.420712 -33.118014) (xy -3.442998 -33.123985)
-				(xy -3.509853 -33.1419) (xy -3.509856 -33.1419) (xy -3.602144 -33.1419) (xy -3.602147 -33.1419)
-				(xy -3.65563 -33.127568) (xy -3.691288 -33.118014) (xy -3.771212 -33.071869) (xy -3.836469 -33.006612)
-				(xy -3.882614 -32.926688) (xy -3.884548 -32.919469) (xy -3.9065 -32.837546) (xy -8.005509 -32.837546)
-				(xy -8.015129 -32.854208) (xy -8.015131 -32.854212) (xy -8.080388 -32.919469) (xy -8.160312 -32.965614)
+				(xy -7.9451 -32.592853) (xy -7.9451 -32.685146) (xy -7.968985 -32.774286) (xy -7.968986 -32.774289)
+				(xy -8.015127 -32.854205) (xy -8.015131 -32.854212) (xy -8.080388 -32.919469) (xy -8.160312 -32.965614)
 				(xy -8.182598 -32.971585) (xy -8.249453 -32.9895) (xy -8.249456 -32.9895) (xy -8.341744 -32.9895)
 				(xy -8.341747 -32.9895) (xy -8.39523 -32.975168) (xy -8.430888 -32.965614) (xy -8.510812 -32.919469)
-				(xy -8.576069 -32.854212) (xy -8.622214 -32.774288) (xy -8.629993 -32.745256) (xy -8.6461 -32.685146)
+				(xy -8.576069 -32.854212) (xy -8.622214 -32.774288) (xy -8.634157 -32.729716) (xy -8.6461 -32.685146)
 				(xy -14.6 -32.685146) (xy -14.6 -34.229146) (xy -5.8735 -34.229146) (xy -5.8735 -34.136853) (xy -5.855585 -34.069998)
 				(xy -5.849614 -34.047712) (xy -5.803469 -33.967788) (xy -5.738212 -33.902531) (xy -5.738205 -33.902527)
 				(xy -5.658289 -33.856386) (xy -5.658286 -33.856385) (xy -5.569147 -33.8325) (xy -5.569144 -33.8325)

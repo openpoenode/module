@@ -9296,7 +9296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "Data Sheets\\dr-mag-s558-5500-25-f.pdf"
 			(at 222.25 69.85 0)
 			(effects
 				(font
