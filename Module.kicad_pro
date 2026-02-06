@@ -845,7 +845,7 @@
       "plot": "C:/Temp/module/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../../Temp/ESP32PoE.step",
+      "step": "../../../../../../../../Temp/openPoeNode.step",
       "svg": "",
       "vrml": ""
     },
