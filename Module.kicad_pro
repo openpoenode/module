@@ -65,15 +65,7 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|-12814300|-5524500|14673ba9-458c-4301-acc4-f98eab6f328e|c82af303-f2c1-423c-a866-658afecedac1",
-          ""
-        ],
-        [
-          "clearance|-12814300|-5524500|64bb9574-d69f-4cc3-8a6d-d9ffddad3cc8|c82af303-f2c1-423c-a866-658afecedac1",
-          ""
-        ],
-        [
-          "clearance|-12814300|-7429500|4148bf2a-d75a-43e0-98f2-21d6cf3212a7|dbdfc018-37a7-499d-8ac4-29c5f3050a63",
+          "clearance|-12814300|-5524500|771fb449-53b1-4fef-b471-c8e01e7a504a|c82af303-f2c1-423c-a866-658afecedac1",
           ""
         ],
         [
@@ -90,6 +82,10 @@
         ],
         [
           "clearance|-14592300|-8064500|13193116-0e1d-4017-92ff-6f1921cba48e|dbdfc018-37a7-499d-8ac4-29c5f3050a63",
+          ""
+        ],
+        [
+          "courtyards_overlap|-4289000|-29052912|2a041a7f-0b51-44d0-8aa3-b3839ae62436|f5040d40-758a-4f0c-8f9e-5d0ad997b995",
           ""
         ],
         [
@@ -126,42 +122,6 @@
         ],
         [
           "hole_clearance|8306000|-17630000|2767e0fe-bcc6-4713-9fbf-9e5fb6d71e54|f7547df2-9ae6-44b8-b9f9-b9598f9e46c6",
-          ""
-        ],
-        [
-          "text_thickness|10490200|-10947400|5c71ce9d-2188-4042-8a61-c7c641e252c4|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|10769600|-12928600|a7c26f27-698a-4b4d-bd0f-2b4e0b385347|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|11430000|-11303000|52c6f824-2ac7-413a-a616-760168c76dbd|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|11963400|-14046200|a68e7947-3079-4fa4-808e-e90c0d2a419b|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|8229600|-12623800|6b5db6d4-c2a3-4551-a79c-c9c7d310b9d1|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|8737600|-11099800|b3088026-9181-46a6-9a03-1df0a7ef7b3c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|9144000|-13868400|4b6745bf-4240-44fa-b100-71e35196589c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|9448800|-15748000|aaa06c68-554d-4210-9d10-6142c3ffaf55|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|9677400|-11887200|0ee99260-3bac-4b0d-bde3-e5283b00a3e0|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -878,7 +838,7 @@
           "group_by": false,
           "label": "Value",
           "name": "Value",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -899,10 +859,10 @@
           "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "MOUSER#",
           "name": "MOUSER#",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -983,10 +943,10 @@
           "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "IDAnything",
           "name": "IDAnything",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -1000,7 +960,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "MOUSER#"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -1061,6 +1021,6 @@
     ]
   ],
   "text_variables": {
-    "REVISION": "0.2"
+    "REVISION": "0.3"
   }
 }
