@@ -123,6 +123,10 @@
         [
           "hole_clearance|8306000|-17630000|2767e0fe-bcc6-4713-9fbf-9e5fb6d71e54|f7547df2-9ae6-44b8-b9f9-b9598f9e46c6",
           ""
+        ],
+        [
+          "silk_overlap|5744800|-5120000|558f3f20-185f-4cce-bd00-cf199f6288b6|e7fe7d13-1b41-4919-b568-000515bd8db3",
+          ""
         ]
       ],
       "meta": {
@@ -859,7 +863,7 @@
           "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "MOUSER#",
           "name": "MOUSER#",
           "show": true
@@ -943,10 +947,10 @@
           "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "IDAnything",
           "name": "IDAnything",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

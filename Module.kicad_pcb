@@ -914,7 +914,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "1R7"
-			(at -0.002 0.018 0)
+			(at -2.2098 -0.2286 0)
 			(layer "User.5")
 			(uuid "93d35317-82a5-462a-9729-304cc3ddcb01")
 			(effects
@@ -6042,7 +6042,7 @@
 			(layers "*.Cu" "F.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections)
+			(zone_layer_connections "In1.Cu" "In3.Cu" "In4.Cu")
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
@@ -6055,11 +6055,11 @@
 			(layers "*.Cu" "F.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections)
+			(zone_layer_connections "In1.Cu" "In3.Cu" "In4.Cu")
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8cf19e17-ac81-4340-8fab-6b5973f58fd1")
+			(uuid "bae0a30a-15d4-413c-a48f-c4747cfcbfd4")
 		)
 		(pad "49" thru_hole circle
 			(at -1.2 1.2 90)
@@ -6068,11 +6068,11 @@
 			(layers "*.Cu" "F.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections)
+			(zone_layer_connections "In1.Cu" "In3.Cu" "In4.Cu")
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8cf19e17-ac81-4340-8fab-6b5973f58fd1")
+			(uuid "e4959f3b-2a20-4667-bb00-c84d79b853f9")
 		)
 		(pad "49" thru_hole circle
 			(at 0 -1.2 90)
@@ -6081,11 +6081,11 @@
 			(layers "*.Cu" "F.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections)
+			(zone_layer_connections "In1.Cu" "In3.Cu" "In4.Cu")
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8cf19e17-ac81-4340-8fab-6b5973f58fd1")
+			(uuid "f3b6f563-f8df-48ff-baf9-8fc35fbacfe3")
 		)
 		(pad "49" thru_hole circle
 			(at 0 0 90)
@@ -6094,11 +6094,11 @@
 			(layers "*.Cu" "F.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections)
+			(zone_layer_connections "In1.Cu" "In3.Cu" "In4.Cu")
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8cf19e17-ac81-4340-8fab-6b5973f58fd1")
+			(uuid "a8813d5c-7dfe-4be6-90f6-dc9d20cb71de")
 		)
 		(pad "49" smd rect
 			(at 0 0 90)
@@ -6109,7 +6109,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "8cf19e17-ac81-4340-8fab-6b5973f58fd1")
+			(uuid "7e8de08c-ff68-4178-b131-b202f47dce10")
 		)
 		(pad "49" thru_hole circle
 			(at 0 1.2 90)
@@ -6118,11 +6118,11 @@
 			(layers "*.Cu" "F.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections)
+			(zone_layer_connections "In1.Cu" "In3.Cu" "In4.Cu")
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8cf19e17-ac81-4340-8fab-6b5973f58fd1")
+			(uuid "22508c91-7235-4a97-b3c6-ff76b75ddea6")
 		)
 		(pad "49" thru_hole circle
 			(at 1.2 -1.2 90)
@@ -6131,11 +6131,11 @@
 			(layers "*.Cu" "F.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections)
+			(zone_layer_connections "In1.Cu" "In3.Cu" "In4.Cu")
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8cf19e17-ac81-4340-8fab-6b5973f58fd1")
+			(uuid "2a206ad7-93f0-4451-812f-c13f8f98814a")
 		)
 		(pad "49" thru_hole circle
 			(at 1.2 0 90)
@@ -6144,11 +6144,11 @@
 			(layers "*.Cu" "F.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections)
+			(zone_layer_connections "In1.Cu" "In3.Cu" "In4.Cu")
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8cf19e17-ac81-4340-8fab-6b5973f58fd1")
+			(uuid "154b5e9a-81d4-4831-a973-1755fe345685")
 		)
 		(pad "49" thru_hole circle
 			(at 1.2 1.2 90)
@@ -6157,11 +6157,11 @@
 			(layers "*.Cu" "F.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections)
+			(zone_layer_connections "In1.Cu" "In3.Cu" "In4.Cu")
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8cf19e17-ac81-4340-8fab-6b5973f58fd1")
+			(uuid "197bc8cf-c911-4e87-9007-1c9b01fe060f")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/3D/ESP32-D0WD.step"
@@ -6480,12 +6480,12 @@
 		(descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "1C1"
-			(at 0 -2.3 270)
+			(at 0.0254 -0.0254 270)
 			(layer "User.5")
 			(uuid "a565f8a1-0d97-4aa9-b9c8-77ba99c04d94")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.6 0.6)
 					(thickness 0.15)
 				)
 			)
@@ -7395,12 +7395,12 @@
 		(descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "1C2"
-			(at 0 -2.3 270)
+			(at 0 -0.0254 270)
 			(layer "User.5")
 			(uuid "c96fcecc-1d98-4175-aa85-3b98090615a8")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.6 0.6)
 					(thickness 0.15)
 				)
 			)
@@ -15183,7 +15183,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "2R16"
-			(at -2.1844 0.0762 0)
+			(at 3.2258 0.0254 0)
 			(layer "User.6")
 			(uuid "ef4c0789-74da-473d-9ef7-d46a325ee865")
 			(effects
@@ -15415,7 +15415,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "2C31"
-			(at 0.26 1.188 0)
+			(at -0.1524 1.0414 0)
 			(layer "User.6")
 			(uuid "42ae0124-8d3f-4bbc-b417-4f2b142a780d")
 			(effects
@@ -20855,7 +20855,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "2R34"
-			(at -2.383 0.009 270)
+			(at 0.9652 1.0922 270)
 			(layer "User.6")
 			(uuid "fd56a1ca-9e4f-4b2f-8ce6-a9df6a5d404e")
 			(effects
@@ -22488,7 +22488,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "2C14"
-			(at -0.504 1.428 0)
+			(at -0.0254 2.5908 0)
 			(layer "User.6")
 			(uuid "b7c1c1b6-6b7c-40bc-a005-6638609b8a3c")
 			(effects
@@ -26140,7 +26140,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "2R39"
-			(at 0 1.0668 90)
+			(at -2.3368 0 90)
 			(layer "User.6")
 			(uuid "dadd1d75-0087-4afe-9e44-114f7925e52f")
 			(effects
@@ -26372,7 +26372,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "2R28"
-			(at 2.23375 0.013435 135)
+			(at 1.490723 -0.017961 135)
 			(layer "User.6")
 			(uuid "61826874-e27d-482f-b72a-71e0b1cd39d9")
 			(effects
@@ -27996,7 +27996,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "2R27"
-			(at 2.250721 -0.003536 135)
+			(at 1.508683 0 135)
 			(layer "User.6")
 			(uuid "2f679c48-7f32-42dc-89b6-3be6e14e2b19")
 			(effects
@@ -28460,7 +28460,7 @@
 		(descr "D_SOD-123F")
 		(tags "D_SOD-123F")
 		(property "Reference" "2D6"
-			(at -1.205 -0.02 0)
+			(at -1.0414 -1.7526 0)
 			(layer "User.6")
 			(uuid "cc039776-dfd1-47ac-b2ec-e02c4241f0a9")
 			(effects
@@ -30407,7 +30407,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "2C13"
-			(at 0.046 -1.128 0)
+			(at -3.937 0 0)
 			(layer "User.6")
 			(uuid "816161f5-9acb-4f02-a06b-2e2be405d25a")
 			(effects
@@ -32461,7 +32461,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "2D4"
-			(at -0.255 -0.029 90)
+			(at 0.0508 -0.0508 0)
 			(layer "User.6")
 			(uuid "a40e4507-a5a8-45ff-84a2-9cf18f554c55")
 			(effects
@@ -33789,7 +33789,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "2R1"
-			(at -1.9304 -0.0254 0)
+			(at -0.0508 1.0414 0)
 			(layer "User.6")
 			(uuid "3e22c685-d950-4b1e-81a3-ab014f143672")
 			(effects
@@ -34021,7 +34021,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "2C12"
-			(at -2.286 -0.0254 0)
+			(at 4.4704 0 0)
 			(layer "User.6")
 			(uuid "b126be12-ebdf-422d-aeac-603a79b05bb7")
 			(effects
@@ -34717,7 +34717,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "2R26"
-			(at 2.338402 0.050205 135)
+			(at 1.508683 -0.035921 135)
 			(layer "User.6")
 			(uuid "613972ac-3ad0-41f6-afbc-20389acdbcbb")
 			(effects
