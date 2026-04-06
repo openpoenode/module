@@ -6277,6 +6277,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 58.42 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "93a63993-1a48-459c-a1c1-45860835f092")
 		)
@@ -6432,6 +6441,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 242.57 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f3ca31e-5b03-484a-b4fa-c5494945d727")
 		)
@@ -6512,6 +6530,15 @@
 			)
 		)
 		(property "IDAnything" "1c6nzaf9nyjwt94ndgc6h40zmf"
+			(at 265.43 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 265.43 49.53 0)
 			(effects
 				(font
@@ -6607,6 +6634,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 193.04 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa4b4678-7ce4-4772-bc5c-4c7e0becbd21")
 		)
@@ -6686,6 +6722,15 @@
 			)
 		)
 		(property "IDAnything" "3g0t5qb6k0gw2bj7sxecxs6d79"
+			(at 209.55 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 209.55 90.17 0)
 			(effects
 				(font
@@ -6782,6 +6827,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 170.18 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c9f373d-4d21-4e84-8c14-5b46fdb85eb7")
 		)
@@ -6859,6 +6913,15 @@
 			)
 		)
 		(property "IDAnything" "52g08xz0vyhy08q0wme80j1vq0"
+			(at 100.33 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 100.33 49.53 90)
 			(effects
 				(font
@@ -6991,6 +7054,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 184.15 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ecbbc63e-7d7c-4c80-81f2-63b5507aad7a")
 		)
@@ -7070,6 +7142,15 @@
 			)
 		)
 		(property "IDAnything" "812ahgx2bmk3ebs6aawcaegb7n"
+			(at 148.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 148.59 43.18 0)
 			(effects
 				(font
@@ -7160,6 +7241,15 @@
 			)
 		)
 		(property "IDAnything" "8fydhve1t4g9rbpgbwj8xzad8w"
+			(at 224.79 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C48586696"
 			(at 224.79 137.16 90)
 			(effects
 				(font
@@ -7323,6 +7413,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C79997"
+			(at 186.69 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "1d6d6df5-1a2e-4ac7-83b2-ef7a42f38543")
 		)
@@ -7413,6 +7512,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 154.94 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d639c77f-1475-4c08-94d4-b6a63e393933")
 		)
@@ -7491,6 +7599,15 @@
 			)
 		)
 		(property "IDAnything" "f5rakc2bw6gvc87xd8jq7r93dj"
+			(at 236.22 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 236.22 118.11 90)
 			(effects
 				(font
@@ -7587,6 +7704,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 66.04 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "93a63993-1a48-459c-a1c1-45860835f093")
 		)
@@ -7666,6 +7792,15 @@
 			)
 		)
 		(property "IDAnything" "3z34bstg58g3zbj6bm49cfkw50"
+			(at 180.34 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 180.34 64.77 0)
 			(effects
 				(font
@@ -7827,6 +7962,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 195.58 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ce08ea9f-03a8-4c46-9edd-238b8d534116")
 		)
@@ -7905,6 +8049,15 @@
 			)
 		)
 		(property "IDAnything" "a0668b16k0g1k959tcdyk7ydbv"
+			(at 201.93 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C2971384"
 			(at 201.93 52.07 0)
 			(effects
 				(font
@@ -7992,6 +8145,15 @@
 			)
 		)
 		(property "IDAnything" "5jk78tnpyggbgbqs9p2kxsxakc"
+			(at 125.73 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C92115"
 			(at 125.73 58.42 0)
 			(effects
 				(font
@@ -8189,6 +8351,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 236.22 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c99aa3ba-c3d8-40d3-96af-889d122e0d20")
 		)
@@ -8266,6 +8437,15 @@
 			)
 		)
 		(property "IDAnything" "dyjzv1pb1rkbh96xb831vxg5z5"
+			(at 100.33 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 100.33 52.07 90)
 			(effects
 				(font
@@ -8354,6 +8534,15 @@
 			)
 		)
 		(property "IDAnything" "c1vc3q1ecwg38aepd291cy2avj"
+			(at 199.39 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 199.39 109.22 0)
 			(effects
 				(font
@@ -8584,6 +8773,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 88.9 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5ea2c06-eaf9-4d88-bbd9-0bb1dc5cf5b7")
 		)
@@ -8661,6 +8859,15 @@
 			)
 		)
 		(property "IDAnything" "51rzmzs5b4j9y8fva05p13xw6s"
+			(at 196.85 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 196.85 57.15 90)
 			(effects
 				(font
@@ -8824,6 +9031,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 160.02 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "47ad4d5e-18ee-4dfd-ada0-15323223a47b")
 		)
@@ -8969,6 +9185,15 @@
 			)
 		)
 		(property "IDAnything" "3evttnjk9mjpxbyr5j5d5v7g5p"
+			(at 237.49 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C74179"
 			(at 237.49 41.91 0)
 			(effects
 				(font
@@ -9131,6 +9356,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 182.88 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e9339227-de05-49b8-aa39-6ba11514c54b")
 		)
@@ -9209,6 +9443,15 @@
 			)
 		)
 		(property "IDAnything" "72ex9h1b3mkkna04sc27d3hgfj"
+			(at 246.38 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 246.38 31.75 90)
 			(effects
 				(font
@@ -9408,6 +9651,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 149.86 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5f37911d-db47-4afa-845f-97988c653fdc")
 		)
@@ -9496,6 +9748,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 254 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a16f4199-f90a-4e29-a2c7-bb641285a2b7")
 		)
@@ -9574,6 +9835,15 @@
 			)
 		)
 		(property "IDAnything" "a0668b16k0g1k959tcdyk7ydbv"
+			(at 73.66 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C2971384"
 			(at 73.66 91.44 0)
 			(effects
 				(font
@@ -9703,6 +9973,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 241.3 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ea53752-7d4e-477e-a5a5-97bfa8863073")
 		)
@@ -9791,6 +10070,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 165.1 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "743145fe-d11e-4691-aa55-1c36ea25c60e")
 		)
@@ -9871,6 +10159,15 @@
 			)
 		)
 		(property "IDAnything" "evtxn9kt5gk1y9gmvvka18a8hf"
+			(at 207.01 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C891118"
 			(at 207.01 78.74 0)
 			(effects
 				(font
@@ -9997,6 +10294,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 213.36 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6194684-4438-4a50-b4c6-65e07b1184de")
 		)
@@ -10077,6 +10383,15 @@
 			)
 		)
 		(property "IDAnything" "arf6h94jkrjsd8gf0mkfyad9b2"
+			(at 60.96 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C53278390"
 			(at 60.96 48.26 90)
 			(effects
 				(font
@@ -10172,6 +10487,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 199.39 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ea53752-7d4e-477e-a5a5-97bfa8863074")
 		)
@@ -10252,6 +10576,15 @@
 			)
 		)
 		(property "IDAnything" "82n9ztys7pjjma8ncwczfamr62"
+			(at 213.36 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C2500"
 			(at 213.36 118.11 90)
 			(effects
 				(font
@@ -10387,6 +10720,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 149.86 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7f3e8833-8bdb-4f18-88ec-19baa59ecf9c")
 		)
@@ -10465,6 +10807,15 @@
 			)
 		)
 		(property "IDAnything" "0r5rb2gfdykaebc85bfax6x5f2"
+			(at 39.37 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C52151"
 			(at 39.37 60.96 0)
 			(effects
 				(font
@@ -10557,6 +10908,15 @@
 			)
 		)
 		(property "IDAnything" "0r5rb2gfdykaebc85bfax6x5f2"
+			(at 39.37 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C52151"
 			(at 39.37 36.83 0)
 			(effects
 				(font
@@ -10685,6 +11045,15 @@
 			)
 		)
 		(property "IDAnything.Var" "3.3V(bpwqf11a58g6vacwyq9nfpvkjf) 5V(8katcbe2c2g6v9h87qywc7zr1y)"
+			(at 231.14 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 231.14 127 90)
 			(effects
 				(font
@@ -10850,6 +11219,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C20417054"
+			(at 218.44 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b84071a-c41c-49fa-a2c5-7d0e016ad2d3")
 		)
@@ -10948,6 +11326,15 @@
 			)
 		)
 		(property "IDAnything" "4g20wes274jns9jencm9th8va1"
+			(at 254 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 254 115.57 0)
 			(effects
 				(font
@@ -11072,6 +11459,15 @@
 			)
 		)
 		(property "IDAnything.Var" "3.3V(1yn3h33r3mkcaag9zy18qnt9dx) 5V(9wnk69v9dyh8a9739d0j8yezqn)"
+			(at 254 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 254 143.51 0)
 			(effects
 				(font
@@ -11224,6 +11620,15 @@
 			)
 		)
 		(property "IDAnything" "cjbd17kqpcg079c1ae8a37wt8d"
+			(at 218.44 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 218.44 24.13 90)
 			(effects
 				(font
@@ -11387,6 +11792,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 167.64 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6e41d3b-8ebb-404b-a53b-199d9073d399")
 		)
@@ -11466,6 +11880,15 @@
 			)
 		)
 		(property "IDAnything" "59pk20syfekmjadzqyyhdbv6d4"
+			(at 74.93 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 74.93 48.26 0)
 			(effects
 				(font
@@ -11620,6 +12043,15 @@
 			)
 		)
 		(property "IDAnything" "ck5h9cq90mkv8ar3c2x7c5qz0c"
+			(at 173.99 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C2925139"
 			(at 173.99 124.46 0)
 			(effects
 				(font
@@ -11788,6 +12220,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C50326348"
+			(at 160.02 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "648095ea-b612-4f08-ace6-6f1a3e60cde5")
 		)
@@ -11868,6 +12309,15 @@
 			)
 		)
 		(property "IDAnything" "6gdsv03sw0gm694qqm04v6grhn"
+			(at 85.09 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 85.09 49.53 0)
 			(effects
 				(font

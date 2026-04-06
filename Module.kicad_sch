@@ -5390,6 +5390,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C2675670"
+			(at 66.04 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "81658e77-c739-479c-aa95-849075e4fef3")
 		)
@@ -5458,6 +5467,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 177.8 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 177.8 46.99 0)
 			(effects
 				(font
@@ -5550,6 +5568,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C2860878"
+			(at 153.67 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "f952c7c7-069a-4fee-87b3-ebbe20fdc507")
 		)
@@ -5633,6 +5660,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 248.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 248.92 115.57 0)
 			(effects
 				(font
@@ -5778,6 +5814,15 @@
 			)
 		)
 		(property "MOUSER#" ""
+			(at 132.08 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 132.08 55.88 0)
 			(effects
 				(font
@@ -5933,6 +5978,15 @@
 			)
 		)
 		(property "IDAnything" "9ywanckr2wg1n8wwt4e0swy1cx"
+			(at 184.15 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 184.15 44.45 0)
 			(effects
 				(font
@@ -6430,6 +6484,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 196.85 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9f44484b-a0b2-42f9-b615-a5141fca982a")
 		)
@@ -6719,6 +6782,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "faae3cd3-1e2c-4d77-a2ce-4badc31f9704")
 		)
@@ -6799,6 +6871,15 @@
 			)
 		)
 		(property "IDAnything" "26egdzngepjd69cx08s4ysz9m1"
+			(at 177.8 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 177.8 54.61 0)
 			(effects
 				(font
@@ -6962,6 +7043,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" ""
+			(at 118.11 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f8b5c241-0e9c-4a4e-8f67-6877ee6119c1")
 		)
@@ -7090,6 +7180,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 243.84 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" ""
 			(at 243.84 60.96 0)
 			(effects
 				(font
