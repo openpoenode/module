@@ -11,7 +11,7 @@
 | PoE 802.3af Controller | TI TPS23753                      |
 | eFuse                  | TI TPS259520DSGR                 |
 
-![ModuleMap](assets/map.png)
+![ModuleMap](Assets/map.png)
 
 ### Flash Memory
 
