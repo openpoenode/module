@@ -78,6 +78,7 @@ GPIOs marked as "limited" have a boot-strapping function and/or a fixed pull-up/
   - MCU power supply input (external 3.3V supply required)
   - I<sub>supply,avg</sub> < 500mA (soft limit)
   - I<sub>supply,lim</sub> = 1.04A (latch-off limit)
+  - I<sub>supply,idle</sub> = ~150mA (idle supply current - including flash, RAM, 100MBit connected Ethernet, Link/Speed indicators on)
 
 ### Programming Interface
 
